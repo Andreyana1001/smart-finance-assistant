@@ -58,7 +58,7 @@ Testing helped me understand the importance of handling edge cases and validatin
 Finalised the README, cleaned the notebook, and reviewed the project.
 
 ### AI Interaction
-Used ChatGPT to improve documentation and review the overall structure of the project.
+Used ChatGPT to improve documentation and review the overall structure of the project and make few changes.
 
 ### Reflection
 I learned that documenting AI usage and maintaining weekly progress is important for transparency and professional development. I also became more confident using AI as a coding assistant.
