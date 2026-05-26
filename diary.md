@@ -62,3 +62,9 @@ Used ChatGPT to improve documentation and review the overall structure of the pr
 
 ### Reflection
 I learned that documenting AI usage and maintaining weekly progress is important for transparency and professional development. I also became more confident using AI as a coding assistant.
+
+## Learning from Debugging with AI
+
+During development of the Smart Finance Assistant, AI tools such as ChatGPT and Gemini were used to help identify coding errors, understand debugging processes, and improve the project structure. One important lesson was understanding that AI tools work better when prompts include clear explanations, code snippets, and documentation references.
+
+I learned that debugging is not only about fixing errors but also understanding why errors occur. AI assistance helped explain function usage, improve prompt quality, and suggest better coding practices. This experience improved my confidence in using AI as a collaborative learning tool during software development.
